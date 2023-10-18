@@ -1,1 +1,125 @@
-Hello world
+Meal prep (frozen/pantry):
+- Breakfast:
+  - Egg white bites
+  - Granola
+- Healthy:
+  - Cooked chicken
+  - Thin chicken
+  - Freezer sausages
+  - Ground beef with Indian spices and green peas
+  - Ground pork with basil and Thai spices (https://youtu.be/Y2nZWveLIRA)
+  - Taco bowls
+  - Quinoa bowl (chicken, quinoa, peas, carrots, lemon, garlic)
+  - Meal squares
+- Components:
+  - Brown rice
+  - Quinoa
+  - Black beans
+  - Red sauce
+  - Garlic
+- Unhealthy:
+  - Lasagna/baked noodles
+  - Meatballs
+- Alej:
+  - Salmon with rice (https://youtu.be/-3h4O4on_-4)
+  - Chicken couscous
+  - Frozen stuff from Whole Foods
+
+Breakfast:
+- Normal:
+  - Avocado toast
+  - Eggs however
+- Unhealthy:
+- Alej:
+  - Smoothies
+  - Oatmeal
+
+Salad:
+- Green salad (lemon vinaigrette, broccoli, green peas, chicken, mozzarella, sunflower seeds)
+- Asian chicken salad (https://youtu.be/Jci6LxNULfA?t=48)
+- Farmer's market salad (https://youtu.be/Jci6LxNULfA?t=91)
+- Forager salad (https://youtu.be/Jci6LxNULfA?t=204)
+- Normal salad (lemon vinaigrette, green peas, carrots, chicken, lettuce, croutons, peperjack)
+- Mexican chicken salad (https://youtu.be/zQB3v8rbReQ)
+- Hearty roast salad (https://youtu.be/Cn0t9QqB4kE?t=54)
+- Quinoa berry salad (https://youtu.be/Cn0t9QqB4kE?t=134)
+- Korean BBQ salad (https://www.maangchi.com/recipe/sangchu-geotjeori)
+- Thai steak salad (https://youtu.be/rRnW7ot9z4E)
+
+Normal:
+- Steak
+- Chicken tikka
+- Korean braised tofu (https://youtu.be/ob2CYmTx9PM)
+- Nigerian chicken curry (https://youtu.be/YUmh3v0wx8w)
+- Ground beef with el pato
+- Crispy thai ground beef (https://youtu.be/UzFoThs2Qpw)
+- Beef bulgogi (https://youtu.be/L2LyD3sNegE)
+- Beef stew (https://www.seriouseats.com/all-american-beef-stew-recipe)
+- Black bean burgers (https://youtu.be/BMgLRD2v5w0)
+
+Unhealthy:
+- Sushi
+- Pasta
+- Carnitas
+- Chicken chile verde
+- Fried rice
+- Pad thai
+- Baked mac n cheese
+- Quesadillas
+
+Alej:
+- Sandwiches
+- Greek salad (https://youtu.be/Jci6LxNULfA)
+- Mashed/baked potatoes
+
+---
+
+To try:
+- Protein pancakes (https://www.bodybuilding.com/recipes/basic-protein-pancakes, https://youtu.be/2-wdtxAa65Y)
+- Keema matar (https://youtu.be/z3zs76WmYdk)
+- Beef shwarma (https://youtu.be/nTiR3N3xWRA)
+- Shirataki noodles (https://youtu.be/-wRHXXyR6sc)
+- Sweet pea pasta (https://youtu.be/vKHSrH975uw)
+
+The Wok:
+- Gong Bao Ji Ding (p. 63)
+- Chicken with Basil, Chiles and Fish Sauce (p. 69)
+- Velvet Chicken with Snap Peas and Lemon-Ginger Sauce (p. 78)
+- Sliced Pork with Chives (p. 90)
+- Chungking Pork (p. 94)
+- Thai-Style Beef With Basil And Fish Sauce (p. 127)
+- Stir-Fried Korean Rice Cakes (p. 212)
+- Sanshoku Don (p. 238)
+- Noodles with XO Pepperoni Sauce (p. 305)
+- Sichuan Mala (p. 310)
+- Dan Dan Noodles (p. 316)
+- Garlic Noodles (p. 330)
+
+Healthy Ingredients:
+- Carb/legume: Oats, lentils, lima beans, black beans, quinoa, edamame
+- Protein: Chicken, ground beef, beef, pork, tofu, steak, egg whites
+- Greens: Broccoli, peas, snow peas, snap peas, green beans, brussel sprouts, zucchini, lettuce, spinach
+- Vegetables: Carrots, cauliflower, eggplant, squash, peppers, avocado, cucumber
+- Resources:
+  - Google Sheet (https://docs.google.com/spreadsheets/d/1LGUApZzHx6yXgF5MItW9ASI4_-NBScQyw59QfRlphkM/edit#gid=0)
+  - Tim Ferris (https://tim.blog/2011/01/21/housecleaning-and-clarifications-blog-content-4hb-corrections-competition-winners-slow-carb-mistakes-and-more/)
+
+Healthy Takeout:
+- Pearl:
+  - Kure (https://kurejuicebar.com/menu/) (closes 5pm)
+  - Greenleaf (https://www.greenleafjuice.com/menu) (closes 4pm)
+  - Safeway (closes midnight)
+  - Pho Van Fresh (https://www.phovanfresh.com/menu) (closes 8pm)
+  - Chipotle (salad bowl; closes ~10pm)
+  - River Pig (https://www.riverpigsaloon.com/menu) (OF bowl; closes 11pm)
+- Alphabet:
+  - San Sai Japanese Grill (https://www.sansaigrillpdx.com/) (closes 9pm)
+  - Laughing Planet (https://laughingplanet.com/) (closes 9pm)
+  - Ling Garden Chinese (https://linggarden.com/) (closes 9pm; free delivery)
+  - Harlow (https://harlowpdx.com/) (closes 8pm)
+  - The Whole Bowl (https://thewholebowl.com/portland.html#menu) (closes 5:30pm)
+  - Mama Bird (https://www.mamabirdpdx.com/menu) (closes 9:30pm)
+  - New Seasons Market (closes 11pm)
+  - Red Onion (closes 9pm)
+- Other:
+  - Nong’s Khao Man Gai (closes 9pm)
