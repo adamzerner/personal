@@ -26,27 +26,31 @@ Meal prep (frozen/pantry):
   - Frozen stuff from Whole Foods
 
 Sauces:
-- Thai dipping sauce
-- Yogurt sauce
-- Sriacha mayo
-- A1
-- Lemon garlic butter
-- Vinaigrette
-- Curry
-- Something with mala
-- Soy, black vinegar, ginger, sesame
-- Hot sauce + crema
-- Salsa verde
-- Barbeque
-- Pesto
-- Tomato sauce
-- Peanut sauce
-- Honey mustard
-- Teriyaki
-- Baba ganoush
-- Mala chile oil vinaigrette (The Wok, p. 559)
-- Benihana ginger dipping sauce (https://youtu.be/W6MAQYH1Cqo)
-- Benihana ginger salad dressing (https://youtu.be/YGmI6Ae3Y8g)
+- Asian:
+  - Thai dipping sauce
+  - Sriacha mayo
+  - Curry
+  - Something with mala
+  - Soy, black vinegar, ginger, sesame
+  - Peanut sauce
+  - Teriyaki
+  - Mala chile oil vinaigrette (The Wok, p. 559)
+  - Benihana ginger dipping sauce (https://youtu.be/W6MAQYH1Cqo)
+  - Benihana ginger salad dressing (https://youtu.be/YGmI6Ae3Y8g)
+- American:
+  - A1
+  - Barbeque
+  - Honey mustard
+- Italian
+  - Lemon garlic butter
+  - Vinaigrette
+  - Pesto
+  - Tomato sauce
+- Other:
+  - Yogurt sauce
+  - Baba ganoush
+  - Hot sauce + crema
+  - Salsa verde
 
 Breakfast:
 - Normal:
